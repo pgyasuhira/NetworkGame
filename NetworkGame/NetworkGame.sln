@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetworkGame.Plugins", "NetworkGame.Plugins.csproj", "{E9FA1FB0-CFD9-BDB1-C75F-E53F8BF17400}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetworkGame", "NetworkGame.csproj", "{1DF86F1F-38CE-CA64-9710-9902AD176EA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetworkGame.Editor", "NetworkGame.Editor.csproj", "{DC51EEE9-D808-A2AA-FBE0-8B74BE7E0E30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9FA1FB0-CFD9-BDB1-C75F-E53F8BF17400}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9FA1FB0-CFD9-BDB1-C75F-E53F8BF17400}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9FA1FB0-CFD9-BDB1-C75F-E53F8BF17400}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9FA1FB0-CFD9-BDB1-C75F-E53F8BF17400}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DF86F1F-38CE-CA64-9710-9902AD176EA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DF86F1F-38CE-CA64-9710-9902AD176EA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DF86F1F-38CE-CA64-9710-9902AD176EA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DF86F1F-38CE-CA64-9710-9902AD176EA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC51EEE9-D808-A2AA-FBE0-8B74BE7E0E30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC51EEE9-D808-A2AA-FBE0-8B74BE7E0E30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC51EEE9-D808-A2AA-FBE0-8B74BE7E0E30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC51EEE9-D808-A2AA-FBE0-8B74BE7E0E30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
